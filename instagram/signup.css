@@ -1,0 +1,65 @@
+@charset "UTF-8";
+.signUp_container{
+    border : 1px solid gray;
+    background-color:white ;
+    width: 300px;
+    height: 500px;
+    margin: 50px auto 50px;
+}
+
+.instagramText {
+    height: 50px;
+    width: 160px;
+    display: block;
+    margin: 50px auto 50px;
+}
+
+.joinLetter{
+    text-align: center;
+    font-size: 120% ;
+    margin-bottom: 40px;
+    color:gray;
+}
+
+.userSignUp{
+    width: 80%;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    padding: 10px 0 10px 8px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+}
+
+
+#signUpButton{
+    width: 82.5%;
+    background-color: skyblue;
+    color:white;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 10px 0 ;
+    border-radius: 5px;
+}
+
+.joinInsta{
+    border : 1px solid gray;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    margin: 50px auto 50px;
+}
+.join{
+    float:left;
+    margin-left:50px;
+}
+.joinBtn{
+    float:right;
+    border: None;
+    display: block;
+    background-color: white;
+    color:skyblue;
+    padding: 0;
+    margin-left:2px;
+}
